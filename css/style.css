@@ -1,0 +1,72 @@
+/*
+
+Code couleur
+
+Rouge Nintendo : #de0000
+Bleu titres et autres : #0037b6
+
+*/
+
+.bg-danger {
+    background: #de0000!important;
+    display: flex;
+    align-items: center;
+}
+
+.nav-item a {
+    text-transform: uppercase;
+    font-size:16px;
+}
+
+h1 {
+    font-size:64px;
+    text-transform: uppercase;
+    text-align: center;
+    font-weight: bold;
+}
+
+hr {
+    width: 40%;
+    margin: auto;
+    background-color: #0037b6;
+    height: 3px;
+    opacity: 1;
+}
+
+h2 {
+    font-size:40px;
+}
+
+.bordered {
+    border-bottom:3px solid #0037b6;
+    border-top:3px solid #0037b6;
+}
+
+.red {
+    background: #de0000;
+}
+
+.blue {
+    color: #0037b6;
+}
+
+.right {
+    text-align:right;
+}
+
+.card {
+    border:5px solid white;
+    border-radius:0;
+    background: #F4F4F4;
+    padding:0;
+    text-align:center;
+}
+
+.card-img-top {
+    border-radius:0;
+}
+
+.footer p {
+    text-align: center;
+    color: white;
+}
