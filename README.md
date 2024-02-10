@@ -13,4 +13,5 @@ Votre job :
 ### Créer un second bouton dans votre menu pour la lisibilité :
 - Ce bouton permettra de modifier la taille de la police, son épaisseur et son aération
 
-### Dans la section à trois colonnes grises, vous devrez ajouter dans chacune des colonnes un bouton cliquable qui lancera un modal Bootstrap contenant une vidéo différente à chaque fois
+### Modal
+Dans la section à trois colonnes grises, vous devrez ajouter dans chacune des colonnes un bouton cliquable qui lancera un modal Bootstrap contenant une vidéo différente à chaque fois
